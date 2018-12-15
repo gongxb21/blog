@@ -10,9 +10,12 @@ module.exports = {
       // ...
       { text: "首页", link: "/" },
       {
-        text: "JAVA",
+        text: "我的博客",
         items: [
-          { text: "基础", link: "/java/index.html" },
+          { text: "Java", link: "/java/index.html" },
+          { text: "数据库", link: "/database/index.html" },
+          { text: "Docker", link: "/docker/index.html" },
+          { text: "其他", link: "/other/index.html" },
         ],
       },
     ],
