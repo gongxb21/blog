@@ -10,22 +10,9 @@ module.exports = {
       // ...
       { text: "首页", link: "/" },
       {
-        text: "TypeScript",
-        items: [
-          { text: "基础", link: "/typescript/types.html" },
-          { text: "类", link: "/typescript/class.html" },
-          { text: "泛型", link: "/typescript/generics.html" },
-          { text: "装饰器", link: "/typescript/decorator.html" },
-          { text: "常见问题", link: "/typescript/other.html" },
-        ],
-      },{
         text: "JAVA",
         items: [
           { text: "基础", link: "/java/helloworld.html" },
-          { text: "类", link: "/typescript/class.html" },
-          { text: "泛型", link: "/typescript/generics.html" },
-          { text: "装饰器", link: "/typescript/decorator.html" },
-          { text: "常见问题", link: "/typescript/other.html" },
         ],
       },
     ],
