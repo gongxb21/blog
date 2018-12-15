@@ -12,7 +12,7 @@ module.exports = {
       {
         text: "JAVA",
         items: [
-          { text: "基础", link: "/java/helloworld.html" },
+          { text: "基础", link: "/java/index.html" },
         ],
       },
     ],
