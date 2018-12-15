@@ -3,7 +3,7 @@ const { name } = require("../../package.json");
 module.exports = {
   base: `/${name}/`,
   title: "GXB",
-  description: "My Blog.",
+  description: "读书笔记、踩坑记录、知识梳理",
   themeConfig: {
     sidebar: "auto",
     nav: [

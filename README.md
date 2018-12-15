@@ -1,18 +1,7 @@
-# My Blog
+# 我的博客
 
-## 写作
+[我的 CSDN](https://blog.csdn.net/gxb2260)
 
-```bash
-yarn
-
-yarn dev
-```
-
-## 发布
-
-```bash
-# 只需执行一次
-source ./init-hook.sh
-
-git push
-```
+- 知识结构梳理
+- 看书笔记
+- 踩坑记录
