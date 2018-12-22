@@ -12,3 +12,7 @@
 - 知识结构梳理
 - 看书笔记
 - 踩坑记录
+- [关于Java](https://gongxb21.github.io/blog/java/)
+- [关于数据库](https://gongxb21.github.io/blog/database/)
+- [关于docker](https://gongxb21.github.io/blog/docker/)
+- [关于其他](https://gongxb21.github.io/blog/other/)
