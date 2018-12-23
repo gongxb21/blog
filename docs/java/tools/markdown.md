@@ -83,3 +83,17 @@ I get 10 times more traffic from [Google][1] an from [Yahoo][2] or [MSN][3].
 ### 引用的文字
 
 > 表示引用文字内容
+
+### 插入表格
+```md
+| tableName | order | 
+| - | :-: | -: | 
+| column1 | order_id |
+|  column2 | room_id | 
+|  column3 | company_id | 
+```
+| tableName | order | 
+| - | :-: | -: | 
+| column1 | order_id |
+|  column2 | room_id | 
+|  column3 | company_id |
