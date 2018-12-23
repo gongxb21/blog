@@ -2,12 +2,13 @@
 
 ## 配置过程
 1. 购买证书，如果要求的级别不那么高的话，可以申请Symantec的免费型DV SSL，这个是免费的。
-    ![images](https://img-blog.csdnimg.cn/20181105173708696.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2d4YjIyNjA=,size_16,color_FFFFFF,t_70)
+    ![images](../../images/cert.png)
 2. 证书的申请：如实填写相关的信息，很快就可以验证完成。
 
 3. 证书下载：根据服务器的类型下载相关类型的证书，这里我选择的是Nginx类型的。
 
-4. 配置nginx：编辑nginx.conf文件，重启nginx。 
+4. 配置nginx：编辑nginx.conf文件，重启nginx。
+   ![nginx.conf](../../images/nginx.png) 
 
 docker 运行nginx的语句，请忽略这乱糟糟的路径：
 ```docker
@@ -24,7 +25,7 @@ docker run -d \
 查看nginx的运行状态：docker ps|grep nginx
 
 5、验证：在浏览器上输入你配置的域名，然后你就可以看到一个小锁的标志
-![images2](https://img-blog.csdnimg.cn/20181105175640833.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2d4YjIyNjA=,size_16,color_FFFFFF,t_70)
+![](../../images/https.png)
 
 
 ## 问题记录
