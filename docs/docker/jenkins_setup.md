@@ -49,9 +49,10 @@
   - connnection name :这个只要自己区分的开就可以了；
   - url: 填写 gitlab 的地址；
   - credentials:这个地方填写 gitlab 的用户信息，这里也可以通过 gitlab 的 sshkey：如下图：
-    ![](https://img-blog.csdn.net/2018070522111920?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2d4YjIyNjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+    ![jenkins配置](../../images/jenkins.png)
 
 ## 参考
 
-- [我的 CSDN](https://blog.csdn.net/gxb2260/article/details/80933331)
+- [jenkins 配置](https://blog.csdn.net/gxb2260/article/details/80933331)
 - [docker 运行 Jenkins](jenkins.md)
+- [Jenkins 邮件模板](jenkins_mail.md)
