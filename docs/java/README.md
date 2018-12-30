@@ -21,7 +21,8 @@ sidebarDepth: 3
 - [复制清除算法](./jvm/复制清除算法.md)
 - [标记整理算法](./jvm/复制清除算法.md)
 - [引用](./jvm/引用.md)
-- [GC收集器](./jvm/gc_collectors.md)
+- [GC 收集器](./jvm/gc_collectors.md)
+- [同步和可重入锁](sync_reentrantLock.md)
 
 ## spring 原理
 
