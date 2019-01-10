@@ -24,6 +24,7 @@ sidebarDepth: 3
 - [GC 收集器](./jvm/gc_collectors.md)
 - [同步和可重入锁](sync_reentrantLock.md)
 - [一次性 Hash](一次性Hash.md)
+- [java 集合框架](java_collections.md)
 
 ## spring 原理
 
