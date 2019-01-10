@@ -131,4 +131,4 @@ public E get(int index) {
     }
    ```
 
-   看了这段代码，好像也没什么了不起的啊，把涉及到集合的值的修改方法全部用**[Synchornized](sync_reentrantLock.md)** 修饰，简单粗暴。
+   看了这段代码，好像也没什么了不起的啊，把涉及到集合的值的修改方法全部用 **[Synchornized](sync_reentrantLock.md)** 修饰，简单粗暴。
