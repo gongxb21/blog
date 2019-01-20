@@ -27,3 +27,7 @@ cglib 代理：是动态代码字节生成的实现，他封装字节码生成�
 
 - 优点：没有接口也可以织入，灵活性高
 - 缺点：扩展类的实现方法为 final 时，则无法进行织入。
+
+## 参考
+
+- [李刚的文章](https://www.ibm.com/developerworks/cn/java/j-lo-springaopcglib/index.html)
