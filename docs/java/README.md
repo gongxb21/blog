@@ -26,8 +26,14 @@ sidebarDepth: 3
 - [一次性 Hash](一次性Hash.md)
 - [java 集合框架](java_collections.md)
 - [NIO](nio.md)
+- [Linux java home 路径](java_home.md)
+- [threadLocal](threadLocal.md)
+- [线程池](threadPool.md)
+- [关键字 volatile](volatile.md)
 
 ## spring 原理
 
 - [Spring 常用注解](./spring/spring_anonation.md)
 - [Aop 原理](./spring/aop.md)
+- [分布式配置中心](spring_cloud_config.md)
+- [配置中心对称加密](配置中心对称加密.md)
