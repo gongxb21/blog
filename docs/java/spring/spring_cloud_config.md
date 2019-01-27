@@ -47,7 +47,7 @@ Spring Cloud Config 为分布式系统中的外部配置提供服 务器和客�
                   config:
                       server:
                           git:
-                              uri: http://sygit.sayyoo.cn/gongxb/spring-config.git
+                              uri: http://*.*.cn/gongxb/spring-config.git
                           default-label: master
                           username: gongxb
                           password: gongxb-2260
@@ -94,7 +94,7 @@ Spring Cloud Config 为分布式系统中的外部配置提供服 务器和客�
     eureka:
         client:
             serviceUrl:
-                defaultZone: http://116.62.166.134:10100/eureka,http://116.62.171.11:10100/eureka
+                defaultZone: http://116.62.166.*:10100/eureka,http://116.62.171.*:10100/eureka
             registry-fetch-interval-seconds: 10
         instance:
             prefer-ip-address: true
