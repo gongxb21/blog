@@ -5,3 +5,4 @@
 - [jenkins 配置](jenkins_setup.md)
 - [jenkins 邮件模板](jenkins_mail.md)
 - [jenkins test](jenkins_test.md)
+- [jenkins 总结](jenkins_summary.md)
